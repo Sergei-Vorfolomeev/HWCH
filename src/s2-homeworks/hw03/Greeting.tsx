@@ -50,7 +50,6 @@ const Greeting: React.FC<GreetingPropsType> = (
                         {error}
                     </div>
                 </div>
-
                 <button
                     id={'hw3-button'}
                     onClick={addUser}
